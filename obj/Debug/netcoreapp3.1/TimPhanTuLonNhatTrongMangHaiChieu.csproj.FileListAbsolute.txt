@@ -1,0 +1,13 @@
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.exe
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.deps.json
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.runtimeconfig.json
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.runtimeconfig.dev.json
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.dll
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.csprojAssemblyReference.cache
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfoInputs.cache
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfo.cs
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.csproj.CoreCompileInputs.cache
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.dll
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+D:\baitap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\netcoreapp3.1\TimPhanTuLonNhatTrongMangHaiChieu.genruntimeconfig.cache
